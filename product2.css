@@ -1,0 +1,71 @@
+body {
+     font-family: Arial, sans-serif;
+
+}
+
+img {
+    border-radius: 30px;
+    height: 250px;
+    width: 180px;
+    margin: 5px;
+}
+
+
+ div{
+    text-align: center;
+    float: left;
+    border: 3px;
+    margin-left: 5%;
+}
+#sensai{
+display: flex;
+ margin-left: 5%;
+}
+
+#ateey{
+    text-align: center;
+    border: 3px;
+    box-shadow:black;
+}
+
+h3{
+    margin-left: 8%;
+    background-color: darkred;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+div>p{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: darkred;
+    border-radius: 10px;
+    color: black;
+    margin-top: 0;
+    padding: 15px;
+}
+
+marquee{
+    background-color: darkred;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 2%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
+
+header {
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding: 20px;
+}
+
